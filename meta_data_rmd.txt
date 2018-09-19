@@ -1,0 +1,258 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	Treatment	Time	Section
+#q2.types	categorical	categorical	categorical	categorical	categorical
+134			blank		
+135			blank		
+280			blank		
+281			blank		
+282			blank		
+10			CF	10d	C
+14			CF	10d	LI
+20			CF	3d	C
+21			CF	3d	C
+22			CF	3d	C
+41			CF	10d	LI
+45			CF	10d	LI
+48			CF	10d	LI
+55			CF	10d	LI
+62			CF	3d	UI
+64			CF	3d	UI
+65			CF	3d	UI
+67			CF	3d	UI
+68			CF	3d	UI
+73			CF	3d	LI
+75			CF	3d	UI
+86			CF	3d	UI
+88			CF	3d	UI
+96			CF	3d	UI
+116			CF	DOH	W
+120			CF	DOH	W
+121			CF	DOH	W
+122			CF	DOH	W
+123			CF	DOH	W
+124			CF	DOH	W
+125			CF	DOH	W
+130			CF	10d	LI
+139			CF	72h	LI
+140			CF	72h	LI
+141			CF	72h	LI
+152			CF	72h	UI
+156			CF	10d	UI
+163			CF	10d	UI
+167			CF	10d	UI
+174			CF	10d	UI
+177			CF	10d	UI
+179			CF	10d	UI
+180			CF	10d	UI
+181			CF	10d	UI
+182			CF	10d	UI
+183			CF	10d	LI
+219			CF	72h	LI
+224			CF	72h	LI
+225			CF	72h	LI
+226			CF	72h	LI
+228			CF	72h	LI
+261			CF	10d	C
+262			CF	10d	C
+263			CF	10d	C
+271			CF	72h	LI
+272			CF	10d	LI
+1			CFP	0h	
+97			CFP	0h	
+193			CFP	0h	
+92			EC	0h	
+285			EC	0h	
+286			EC	0h	
+287			EC	0h	
+136			EC	0h	
+288			EC	0h	
+93			EC	0h	
+94			EC	0h	
+95			EC	0h	
+188			EC	0h	
+189			EC	0h	
+190			EC	0h	
+191			EC	0h	
+192			EC	0h	
+11			KO	10d	C
+23			KO	3d	C
+24			KO	3d	C
+30			KO	DOH	W
+32			KO	DOH	W
+38			KO	10d	LI
+49			KO	10d	LI
+50			KO	10d	LI
+58			KO	10d	LI
+59			KO	10d	LI
+61			KO	3d	LI
+66			KO	3d	UI
+71			KO	3d	UI
+72			KO	3d	UI
+76			KO	3d	UI
+77			KO	3d	LI
+79			KO	3d	LI
+82			KO	3d	UI
+85			KO	3d	UI
+89			KO	3d	LI
+90			KO	3d	UI
+91			KO	3d	UI
+105			KO	DOH	W
+109			KO	DOH	W
+111			KO	DOH	W
+112			KO	DOH	W
+126			KO	10d	LI
+128			KO	10d	LI
+129			KO	10d	LI
+131			KO	10d	LI
+150			KO	72h	UI
+153			KO	72h	UI
+169			KO	10d	UI
+178			KO	10d	UI
+199			KO	DOH	W
+200			KO	DOH	W
+201			KO	DOH	W
+202			KO	DOH	W
+203			KO	DOH	W
+204			KO	DOH	W
+205			KO	DOH	W
+215			KO	72h	LI
+216			KO	72h	LI
+221			KO	72h 	C
+222			KO	72h	LI
+223			KO	72h	LI
+227			KO	72h	LI
+229			KO	72h	C
+231			KO	10d	UI
+232			KO	10d	UI
+233			KO	10d	UI
+234			KO	10d	UI
+235			KO	10d	UI
+236			KO	10d	UI
+237			KO	10d	UI
+238			KO	10d	UI
+251			KO	10d	UI
+252			KO	10d	UI
+253			KO	10d	UI
+266			KO	72h	UI
+275			KO	10d	C
+2			KOP	0h	
+98			KOP	0h	
+194			KOP	0h	
+196			KOP	0h	
+33			L	DOH	W
+34			L	DOH	W
+35			L	DOH	W
+40			L	10d	LI
+42			L	10d	LI
+46			L	10d	LI
+56			L	10d	LI
+63			L	3d	UI
+69			L	3d	UI
+70			L	3d	UI
+74			L	3d	UI
+78			L	3d	UI
+81			L	3d	LI
+83			L	3d	UI
+84			L	3d	LI
+87			L	3d	UI
+104			L	DOH	W
+106			L	DOH	W
+107			L	DOH	W
+108			L	DOH	W
+110			L	DOH	W
+113			L	DOH	W
+114			L	10d	LI
+127			L	10d	LI
+132			L	10d	LI
+133			L	10d	LI
+146			L	72h	LI
+147			L	72h	LI
+148			L	72h	LI
+149			L	72h	LI
+151			L	72h	UI
+157			L	10d	UI
+158			L	10d	UI
+159			L	10d	UI
+172			L	10d	LI
+173			L	10d	UI
+175			L	10d	UI
+176			L	10d	UI
+206			L	DOH	W
+207			L	DOH	W
+208			L	DOH	W
+209			L	DOH	W
+210			L	DOH	W
+211			L	DOH	W
+212			L	DOH	W
+213			L	72h	LI
+214			L	72h	LI
+217			L	72h	LI
+218			L	72h	LI
+220			L	72h	LI
+254			L	10d	UI
+255			L	10d	UI
+256			L	10d	UI
+257			L	10d	UI
+258			L	10d	UI
+259			L	10d	LI
+260			L	10d	UI
+273			L	10d	LI
+276			L	10d	C
+3			LP	0h	
+99			LP	0h	
+195			LP	0h	
+8			S	3d	C
+17			S	3d	C
+18			S	3d	C
+19			S	3d	C
+26			S	DOH	W
+36			S	DOH	W
+39			S	10d	LI
+51			S	10d	LI
+52			S	10d	LI
+53			S	10d	LI
+57			S	10d	LI
+115			S	DOH	W
+117			S	DOH	W
+118			S	DOH	W
+119			S	DOH	W
+137			S	10d	LI
+142			S	72h	LI
+144			S	72h	LI
+145			S	72h	LI
+154			S	10d	UI
+155			S	10d	UI
+160			S	10d	UI
+161			S	10d	UI
+162			S	10d	UI
+164			S	10d	UI
+165			S	10d	UI
+166			S	10d	UI
+168			S	10d	UI
+170			S	10d	UI
+171			S	10d	UI
+184			S	10d	UI
+185			S	10d	LI
+186			S	10d	LI
+187			S	10d	LI
+230			S	10d	LI
+239			S	72h	UI
+240			S	72h	UI
+241			S	72h	UI
+242			S	72h	UI
+243			S	10d	UI
+244			S	10d	UI
+245			S	10d	UI
+246			S	10d	UI
+247			S	10d	UI
+248			S	10d	UI
+249			S	10d	LI
+250			S	10d	LI
+265			S	DOH	W
+267			S	72h	LI
+268			S	72h	LI
+269			S	72h	LI
+270			S	72h	LI
+274			S	10d	C
+277			S	72h	LI
+278			S	72h	LI
+279			S	72h 	LI
